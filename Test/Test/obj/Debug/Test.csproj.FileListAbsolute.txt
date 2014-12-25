@@ -1,0 +1,16 @@
+E:\Code\Research-2014-Fall\Surface\TestSurface\Test\Test\bin\Debug\Resources\icon.png
+E:\Code\Research-2014-Fall\Surface\TestSurface\Test\Test\bin\Debug\Test.xml
+E:\Code\Research-2014-Fall\Surface\TestSurface\Test\Test\bin\Debug\Test.exe
+E:\Code\Research-2014-Fall\Surface\TestSurface\Test\Test\bin\Debug\Test.pdb
+E:\Code\Research-2014-Fall\Surface\TestSurface\Test\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+E:\Code\Research-2014-Fall\Surface\TestSurface\Test\Test\obj\Debug\SurfaceWindow1.baml
+E:\Code\Research-2014-Fall\Surface\TestSurface\Test\Test\obj\Debug\App.baml
+E:\Code\Research-2014-Fall\Surface\TestSurface\Test\Test\obj\Debug\SurfaceWindow1.g.cs
+E:\Code\Research-2014-Fall\Surface\TestSurface\Test\Test\obj\Debug\App.g.cs
+E:\Code\Research-2014-Fall\Surface\TestSurface\Test\Test\obj\Debug\Test_Content.g.cs
+E:\Code\Research-2014-Fall\Surface\TestSurface\Test\Test\obj\Debug\Test_MarkupCompile.cache
+E:\Code\Research-2014-Fall\Surface\TestSurface\Test\Test\obj\Debug\Test.g.resources
+E:\Code\Research-2014-Fall\Surface\TestSurface\Test\Test\obj\Debug\Test.Properties.Resources.resources
+E:\Code\Research-2014-Fall\Surface\TestSurface\Test\Test\obj\Debug\Test.csproj.GenerateResource.Cache
+E:\Code\Research-2014-Fall\Surface\TestSurface\Test\Test\obj\Debug\Test.exe
+E:\Code\Research-2014-Fall\Surface\TestSurface\Test\Test\obj\Debug\Test.pdb

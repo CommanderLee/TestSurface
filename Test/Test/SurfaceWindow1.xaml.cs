@@ -23,6 +23,7 @@ namespace Test
     /// </summary>
     public partial class SurfaceWindow1 : SurfaceWindow
     {
+        private bool isText = false;
         /// <summary>
         /// Default constructor.
         /// </summary>
@@ -98,6 +99,36 @@ namespace Test
         private void OnWindowUnavailable(object sender, EventArgs e)
         {
             //TODO: disable audio, animations here
+        }
+
+        private void Canvas_TouchDown(object sender, TouchEventArgs e)
+        {
+            // Get the position of the current contact.
+            Point touchPos = e.TouchDevice.GetPosition(this);
+
+            // Set the X and Y position of helloWorldImage
+            // in relation to the canvas.
+            Canvas.SetLeft(helloWorldImg, touchPos.X);
+            Canvas.SetTop(helloWorldImg, touchPos.Y);
+
+            e.Handled = true;
+        }
+
+        private void helloWorldBtn_TouchDown(object sender, RoutedEventArgs e)
+        {
+            // TextBlock myTextBlock = new TextBlock();
+            // myTextBlock.FontSize = 15;
+            // myTextBlock.Text = "Hello, World!";
+            if (!isText)
+            {
+                helloWorldTxt.FontSize = 15;
+                helloWorldTxt.Text = "Hello, World!";
+            }
+            else
+            {
+                helloWorldTxt.Text = "";
+            }
+            isText = !isText;
         }
     }
 }
